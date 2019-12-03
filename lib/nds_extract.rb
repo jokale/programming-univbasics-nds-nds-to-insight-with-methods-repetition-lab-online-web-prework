@@ -29,7 +29,7 @@ def list_of_directors(source)
 end
 
 def total_gross(source)
-  return { dir_name => gross }
+  return gross
   # Write this implementation
   #
   # Should use methods:
